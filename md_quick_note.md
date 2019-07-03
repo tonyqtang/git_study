@@ -1,3 +1,5 @@
+# Text  
+
 I am a **bold** word   
 I am a *italic* word  
 I am a ***combined*** word  
@@ -11,6 +13,8 @@ I am a ~~crossed~~ word
 I am a link to [google](http://google.com) 
 ```
 ------------
+# Lists  
+
 I am a numbered lists:
 1. One     
 2. Two  
@@ -21,7 +25,7 @@ I am a numbered lists:
 2. Two  
 3. Three   
 ```
----------------
+-------------------
 I am an unordered lists:
 * balabala
 * hahahaha
@@ -40,7 +44,21 @@ I am an unordered lists:
     - have no idea
       - me too
 ```
+---------------
+I am a task lists:
+- [x] say hello
+- [ ] say goodbye
+- [ ] say goodnight
+```
+I am a task lists:
+- [x] say hello
+- [ ] say goodbye
+- [ ] say goodnight
+```
+
 -------------
+# Header  
+
 # I am a heading  
 ## I am also a heading
 ```
@@ -63,6 +81,7 @@ I am a emoji :blush:
 To see a list of supported emoji, click [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) 
 ```
 ---------------
+# Code  
 
 I am a Python code:
 ```python
@@ -89,18 +108,20 @@ else:
  \```
 ```
 
----------------
-I am a task lists:
-- [x] say hello
-- [ ] say goodbye
-- [ ] say goodnight
-```
-I am a task lists:
-- [x] say hello
-- [ ] say goodbye
-- [ ] say goodnight
-```
-
 --------------------
+# Table     
 
-reference: [Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+I am a table:
+
+|Name|Age|
+|----|----|
+|Tom|79|
+|Jerry|79|
+-----------
+
+------------------------
+
+reference:     
+[Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)     
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)       
+[GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
